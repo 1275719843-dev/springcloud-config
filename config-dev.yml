@@ -1,2 +1,2 @@
-con:
+config:
   info: config-dev.yml
